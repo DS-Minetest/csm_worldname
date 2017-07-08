@@ -1,0 +1,1 @@
+A server-/client-side mod used to give the worldname to csm.
